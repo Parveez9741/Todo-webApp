@@ -32,14 +32,14 @@ To run the app on your local machine, follow these steps:
 <br>
 
 
-## ScreenShots
+## ScreenShots 📸
 
 ![Screenshot_20231109_214540](https://github.com/HISHAN03/CHAT_APP/assets/108483712/887da414-182d-49b8-be56-350590f8373d)
 <br>
 ![Screenshot_20231109_214552](https://github.com/HISHAN03/CHAT_APP/assets/108483712/482a2267-8540-4332-8b7c-8e1d8d8d122f)
 
 
-## How to Use:
+## How to Use 🤔:
 
 1. **Add a Task:** Click on the '➕' button to add a new task to your to-do list.
 
@@ -51,7 +51,7 @@ To run the app on your local machine, follow these steps:
    
 <br>
 
-## Contributing
+## Contributing 🤝
 We welcome contributions from the community to enhance ToDoApp further. If you have any ideas or improvements,
 feel free to submit a pull request. Please ensure that your contributions align with our Code of Conduct.✨🤝
 
